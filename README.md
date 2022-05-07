@@ -32,7 +32,7 @@ Dictionary contains historical financial data of shares represented as symbol, w
    Open and Close is the opening and closing price the stock takes.
 
 The portfolio dictionary:\
-    when loaded, portfolio dictionary contains "date" of the portfolio, 
+    When loaded, portfolio dictionary contains "date" of the portfolio, 
     "cash" in portfolio and "symbol" if there are any in said portfolio as the keys.
     Using the example input, if the portfolio is printed the output is as follows,
     
