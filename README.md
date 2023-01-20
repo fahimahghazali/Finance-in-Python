@@ -16,7 +16,7 @@ stocktrader -- A Python module for virtual stock trading
 - `tradeStrategy1(verbose)` applies a certain flow of strategy to the current portfolio
 Note: further information on functions are available in the docstrings
 
-### Defined terables
+### Defined iterables
 
 The stocks dictionary: \
 Dictionary contains historical financial data of shares represented as symbol, where the value is a dictionary for each symbol key. Stocks dictionary general format is as follows
